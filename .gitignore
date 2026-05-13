@@ -1,34 +1,23 @@
-# Entornos virtuales
 venv/
 .env/
 agenda_venv/
-python_venv/
 
-# Caché de Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Archivos del sistema
 .DS_Store
 Thumbs.db
 
-# VS Code
 .vscode/
+.idea/
 
-# Archivos temporales
 *.tmp
 *.log
 
-# PyInstaller
 build/
 dist/
 *.exe
 
-# Datos generados por la app
-MiAgendaPersonal/
-entradas/
-exportados/
-config.json
-iniciar_agenda.bat
+agenda/
